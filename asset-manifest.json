@@ -1,14 +1,14 @@
 {
-  "main.css": "/ankush.vangari.com/static/css/main.e97670be.chunk.css",
-  "main.js": "/ankush.vangari.com/static/js/main.cf6a3153.chunk.js",
-  "main.js.map": "/ankush.vangari.com/static/js/main.cf6a3153.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/ankush.vangari.com/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/ankush.vangari.com/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/ankush.vangari.com/static/js/runtime~main.2c45de4f.js",
-  "runtime~main.js.map": "/ankush.vangari.com/static/js/runtime~main.2c45de4f.js.map",
-  "static/media/logo.svg": "/ankush.vangari.com/static/media/logo.5d5d9eef.svg",
-  "static/css/main.e97670be.chunk.css.map": "/ankush.vangari.com/static/css/main.e97670be.chunk.css.map",
-  "index.html": "/ankush.vangari.com/index.html",
-  "precache-manifest.066d027ff66611eff6a243e9b63f7d33.js": "/ankush.vangari.com/precache-manifest.066d027ff66611eff6a243e9b63f7d33.js",
-  "service-worker.js": "/ankush.vangari.com/service-worker.js"
+  "main.css": "/React-Website-Test/static/css/main.e97670be.chunk.css",
+  "main.js": "/React-Website-Test/static/js/main.f9f00c13.chunk.js",
+  "main.js.map": "/React-Website-Test/static/js/main.f9f00c13.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/React-Website-Test/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/React-Website-Test/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/React-Website-Test/static/js/runtime~main.72196d27.js",
+  "runtime~main.js.map": "/React-Website-Test/static/js/runtime~main.72196d27.js.map",
+  "static/media/logo.svg": "/React-Website-Test/static/media/logo.5d5d9eef.svg",
+  "static/css/main.e97670be.chunk.css.map": "/React-Website-Test/static/css/main.e97670be.chunk.css.map",
+  "index.html": "/React-Website-Test/index.html",
+  "precache-manifest.57177baf7e2989465ae3295cdf638193.js": "/React-Website-Test/precache-manifest.57177baf7e2989465ae3295cdf638193.js",
+  "service-worker.js": "/React-Website-Test/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/ankush.vangari.com/precache-manifest.066d027ff66611eff6a243e9b63f7d33.js"
+  "/React-Website-Test/precache-manifest.57177baf7e2989465ae3295cdf638193.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ankush.vangari.com/index.html", {
+workbox.routing.registerNavigationRoute("/React-Website-Test/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
